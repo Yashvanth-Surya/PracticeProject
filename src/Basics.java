@@ -89,8 +89,7 @@ public class Basics {
 				System.out.println("Yashvanth made this change 1 in Eclipse Editor");
 				System.out.println("Yashvanth made this change 2 in Eclipse Editor");
 				
-
-				System.out.println("Yashvanth typed this in git");
+				System.out.println("Yashvanth made this change 3 in Eclipse Editor");
 	}
 
 }
