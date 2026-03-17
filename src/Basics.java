@@ -97,10 +97,7 @@ public class Basics {
 				System.out.println("Yashvanth made this change 2 in Git");
 				
 				
-				//Branch addition
-				System.out.println("Yashvanth made this change 5 in Eclipse new branch");
-				System.out.println("Yashvanth made this change 6 in Eclipse new branch");
-				System.out.println("Yashvanth made this change 7 in Eclipse new branch");
+				
 	}
 
 }
