@@ -85,16 +85,19 @@ public class Basics {
 				Assert.assertEquals(actualAddress2, newAddress);
 				System.out.println("Address 2 ::: " + actualAddress2);	
 
-				
+				//master changes
 				System.out.println("Yashvanth made this change 1 in Eclipse Editor");
-				System.out.println("Yashvanth made this change 2 in Eclipse Editor");
-				
+				System.out.println("Yashvanth made this change 2 in Eclipse Editor");				
 				System.out.println("Yashvanth made this change 3 in Eclipse Editor");
-		
 				System.out.println("Yashvanth made this change 4 in Eclipse");
 				
+				
+				//git chanes
 				System.out.println("Yashvanth made this change 1 in Git");
 				System.out.println("Yashvanth made this change 2 in Git");
+				
+				
+				
 	}
 
 }
